@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Money"</Description>
+      <VariableType>Double</VariableType>
+      <Address>"swarmsurge.exe"+00C0B2B0</Address>
+      <Offsets>
+        <Offset>350</Offset>
+        <Offset>1E0</Offset>
+        <Offset>10</Offset>
+        <Offset>48</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Infested Woodland Level Lock"</Description>
+      <VariableType>Double</VariableType>
+      <Address>"swarmsurge.exe"+00C1D540</Address>
+      <Offsets>
+        <Offset>400</Offset>
+        <Offset>5D0</Offset>
+        <Offset>10</Offset>
+        <Offset>48</Offset>
+        <Offset>1A0</Offset>
+        <Offset>C50</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
